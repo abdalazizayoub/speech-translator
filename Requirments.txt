@@ -1,4 +1,4 @@
 streamlit
-speechrecognition 
-googletrans 
-streamlit_autorefresh  
+speechrecognition
+googletrans==4.0.0-rc1
+streamlit-autorefresh
