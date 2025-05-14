@@ -1,0 +1,4 @@
+streamlit
+speech_recognition 
+googletrans 
+streamlit_autorefresh  
